@@ -1,3 +1,13 @@
+# This fork is deprecated and not being updated anymore.
+Please go here for the up-to-date version of the Teensy 4.x SmartMatrix driver:
+https://github.com/pixelmatix/SmartMatrix/tree/teensy4
+
+-
+
+-
+
+-
+
 # SmartMatrix Library for Teensy 3
 
 ## Changes for ESP32
